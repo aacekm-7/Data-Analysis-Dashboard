@@ -1,7 +1,7 @@
 #Adventureworks2019 Data Analysis | Powert BI + SQL
 ##Objetivo del proyecto / Project objetive
------------------------------------------------
-#Español
+
+Español
 
 Objetivo del proyecto 
 El objetivo de este proyecto es construir una solución completa de análisis empresarial utilizando Power BI y SQL Server, basada en el modelo estrella de AdventureWorks2019. 
@@ -66,7 +66,7 @@ Talento Humano
 
 ¿Cuál es la antigüedad promedio y cuántos empleados están activos o retirados?
 
-#English
+English
 
 Project Objective (AdventureWorks2019)
 The objective of this project is to build a complete business analytics solution using Power BI and SQL Server based on the AdventureWorks2019 dataset. 
