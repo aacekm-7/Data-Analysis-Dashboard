@@ -10,62 +10,69 @@ A través de dashboards interactivos, el proyecto permite evaluar el desempeño 
 Como ingeniero en sistemas en formación dentro del análisis de datos, desarrollé este proyecto para fortalecer mis habilidades en modelado dimensional, SQL, DAX y visualización, 
 aplicando buenas prácticas y aprendiendo cada día con entusiasmo y pasión por los datos.
 
-Preguntas que este proyecto puede responder
+KPIs que este proyecto puede responder
+
 Ventas
-¿Cuáles son las ventas totales por año, mes, región, categoría o vendedor?
 
-¿Qué productos generan más ingresos y cuáles tienen menor rotación?
+- ¿Cuáles son las ventas totales por año, mes, región, categoría o vendedor?
 
-¿Cómo se comportan las transacciones y el ticket promedio a lo largo del tiempo?
+- ¿Qué productos generan más ingresos y cuáles tienen menor rotación?
 
-¿Qué relación existe entre cantidad vendida, clientes y ventas?
+- ¿Cómo se comportan las transacciones y el ticket promedio a lo largo del tiempo?
 
-¿Qué regiones o vendedores impulsan el mayor crecimiento?
+- ¿Qué relación existe entre cantidad vendida, clientes y ventas?
+
+- ¿Qué regiones o vendedores impulsan el mayor crecimiento?
 
 Inventario
-¿Cuántos productos hay disponibles por año, categoría o localidad?
 
-¿Cómo varía la existencia de insumos a lo largo del tiempo?
+- ¿Cuántos productos hay disponibles por año, categoría o localidad?
 
-¿Qué productos presentan mayor movimiento o riesgo de quiebre de stock?
+- ¿Cómo varía la existencia de insumos a lo largo del tiempo?
 
-¿Cuál es la tendencia anual del inventario total?
+- ¿Qué productos presentan mayor movimiento o riesgo de quiebre de stock?
+
+- ¿Cuál es la tendencia anual del inventario total?
 
 Producción
-¿Cuántos productos se producen por mes y por categoría?
 
-¿Cuántos están en proceso y cuántos terminados?
+- ¿Cuántos productos se producen por mes y por categoría?
 
-¿Qué locaciones tienen mayor carga de trabajo?
+- ¿Cuántos están en proceso y cuántos terminados?
 
-¿Cuál es la rentabilidad estimada de la producción?
+- ¿Qué locaciones tienen mayor carga de trabajo?
 
-Compras y Proveedores
-¿Cuánto se paga a cada proveedor por año y mes?
+- ¿Cuál es la rentabilidad estimada de la producción?
 
-¿Qué proveedores tienen mejor desempeño en OnTime e InFull?
+- Compras y Proveedores
 
-¿Qué productos generan más devoluciones o variaciones de cantidad?
+- ¿Cuánto se paga a cada proveedor por año y mes?
 
-¿Cómo evoluciona el gasto mensual y anual en compras?
+- ¿Qué proveedores tienen mejor desempeño en OnTime e InFull?
+
+- ¿Qué productos generan más devoluciones o variaciones de cantidad?
+
+- ¿Cómo evoluciona el gasto mensual y anual en compras?
 
 Clientes
-¿Cuántos clientes hay por país, ciudad o región?
 
-¿Cómo se distribuye la cartera de clientes en el mundo?
+- ¿Cuántos clientes hay por país, ciudad o región?
 
-¿Qué países concentran la mayor cantidad de compradores?
+- ¿Cómo se distribuye la cartera de clientes en el mundo?
 
-¿Qué patrones existen en el comportamiento de los clientes?
+- ¿Qué países concentran la mayor cantidad de compradores?
+
+- ¿Qué patrones existen en el comportamiento de los clientes?
 
 Talento Humano
-¿Cuántas contrataciones se realizan por año y mes?
 
-¿Qué gerencias y departamentos contratan más personal?
+- ¿Cuántas contrataciones se realizan por año y mes?
 
-¿Cómo se distribuyen los empleados por género y grupo etario?
+- ¿Qué gerencias y departamentos contratan más personal?
 
-¿Cuál es la antigüedad promedio y cuántos empleados están activos o retirados?
+- ¿Cómo se distribuyen los empleados por género y grupo etario?
+
+- ¿Cuál es la antigüedad promedio y cuántos empleados están activos o retirados?
 
 English
 
