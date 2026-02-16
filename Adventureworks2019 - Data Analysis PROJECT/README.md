@@ -1,10 +1,7 @@
 # Adventureworks2019 Data Analysis | Powert BI + SQL
 
-## Objetivo del proyecto / Project objetive
-
-Español
-
-Objetivo del proyecto 
+## Objetivo del proyecto / Project objetive (Español)
+ 
 El objetivo de este proyecto es construir una solución completa de análisis empresarial utilizando Power BI y SQL Server, basada en el modelo estrella de AdventureWorks2019. 
 A través de dashboards interactivos, el proyecto permite evaluar el desempeño de ventas, inventario, producción, compras, clientes y talento humano. 
 Como ingeniero en sistemas en formación dentro del análisis de datos, desarrollé este proyecto para fortalecer mis habilidades en modelado dimensional, SQL, DAX y visualización, 
@@ -80,11 +77,8 @@ Talento Humano
 
 # Adventureworks2019 Data Analysis | Power BI + SQL
 
-## Project Objective
-
-English
-
-Project Objective  
+## Project Objective (English)
+  
 The objective of this project is to build a complete business analytics solution using Power BI and SQL Server, based on the AdventureWorks2019 star‑schema model.  
 Through interactive dashboards, the project enables the evaluation of performance across sales, inventory, production, purchasing, customers, and human resources.  
 As a systems engineer developing my skills in data analytics, I created this project to strengthen my abilities in dimensional modeling, SQL, DAX, and visualization, applying best practices and learning every day with enthusiasm and a strong passion for data.
