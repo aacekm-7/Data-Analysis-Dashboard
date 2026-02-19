@@ -1,4 +1,4 @@
-# Adventureworks2019 | Data Analysis | Powert BI + SQL
+# Adventureworks2019 | Data Analysis | Power BI + SQL
 
 ## Objetivo del proyecto 
  
