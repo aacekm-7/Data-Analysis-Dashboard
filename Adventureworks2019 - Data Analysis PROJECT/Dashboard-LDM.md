@@ -1,4 +1,4 @@
-## Modelado de datos | Data Modeling
+# Modelado de datos | Data Modeling
 
 <img width="1328" height="772" alt="image" src="https://github.com/user-attachments/assets/f7056148-0141-4a58-ae0a-d22f3e9d97e5" />
 
