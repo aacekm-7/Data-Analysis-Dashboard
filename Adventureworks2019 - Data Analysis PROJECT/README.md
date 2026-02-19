@@ -78,8 +78,4 @@ Talento Humano
 
 ##
 
-- How many hires occur by year and month?
-- Which management areas and departments hire the most?
-- How employees are distributed by gender and age group?
-- What the average seniority is and how many employees are active or retired?
 
