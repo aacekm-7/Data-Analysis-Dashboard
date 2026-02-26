@@ -8,7 +8,9 @@ Como ingeniero en sistemas en formación especializado en análisis de datos, de
 
 En mi rol de aprendiz de Power BI y SQL, continúo reforzando mis conocimientos mediante la práctica constante, explorando nuevas funcionalidades y perfeccionando la integración entre bases de datos y reportes dinámicos. Este proceso me impulsa a crecer profesionalmente y a consolidar una base sólida para futuros proyectos de analítica empresarial y business intelligence.
 
-### Importante:
+#
+
+### Importante: 
 
 En los dashboard no agregue imágenes y formas visuales porque NO tengo Power BI con licencia, estoy usando el gratis y me limita algunas funciones. 
 
